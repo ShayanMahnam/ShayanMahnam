@@ -22,7 +22,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  based in London.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> trainee at CYF <img src="https://media.giphy.com/media/Hwcv6pN8PIIpXAEsH2/giphy.gif" width="30"> based in London <img src="https://media.giphy.com/media/1RDiZNlUerlkc/giphy.gif" width="30">
 
 ---
 
