@@ -22,7 +22,7 @@
 
 
 ### :man_technologist: About Me :
-My name is <a href="https://www.thenamemeaning.com/shayan/">Shayan</a>. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> trainee at <a href="https://codeyourfuture.io/">CYF</a> <img src="https://media.giphy.com/media/Hwcv6pN8PIIpXAEsH2/giphy.gif" width="20"> based in <a href="https://www.visitlondon.com/">London</a> <img src="https://media.giphy.com/media/1RDiZNlUerlkc/giphy.gif" width="20">
+My name is <a href="https://www.thenamemeaning.com/shayan/">Shayan</a>. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> graduated from <a href="https://codeyourfuture.io/">CYF</a> <img src="https://media.giphy.com/media/Hwcv6pN8PIIpXAEsH2/giphy.gif" width="20"> based in <a href="https://www.visitlondon.com/">London</a> <img src="https://media.giphy.com/media/1RDiZNlUerlkc/giphy.gif" width="20">
 
 ---
 
